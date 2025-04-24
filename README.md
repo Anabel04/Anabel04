@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Trying to program for two years.<br>📚 I'm currently learning React. <br>🎯 Goals: Design and program the fron-end and the back-end part of a whole website by myself.<br>🎲 Fun fact: I made my own earrings with my 3D printer.</p>
+<p align="left">✨ Trying to program for two years.<br>📚 I'm currently learning React. <br>🎯 Goals: Design and program the front-end and the back-end part of a whole website by myself.<br>🎲 Fun fact: I made my own earrings with my 3D printer.</p>
 
 ###
 
